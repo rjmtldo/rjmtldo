@@ -5,7 +5,7 @@ I’m a Tech enthusiast, and IT professional.
 
 👇👇👇 Checkout my Channel and follow me!
 
-![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F0xzS4r)
+![Twitter Follow](https://img.shields.io/twitter/follow/0xzS4r?style=social)
 ![Discord](https://img.shields.io/discord/702179729767268433?label=Join%20the%20community&logo=discord&style=lat)
 
 
