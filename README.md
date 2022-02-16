@@ -40,7 +40,7 @@
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" />
   <img alt="VMware" src="https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white" />
   <img alt="Virtualbox" src="https://img.shields.io/badge/-Virtualbox-183A61?style=flat&logo=virtualbox&logoColor=white" />
-  <img alt="Microsoft-Exchange" src="https://img.shields.io/badge/-Microsoft-Exchange-0078D4?style=flat&logo=microsoftexchange&logoColor=white" />
+  <img alt="Microsoft Exchange" src="https://img.shields.io/badge/-Microsoft Exchange-0078D4?style=flat&logo=microsoftexchange&logoColor=white" />
 </p>
 
 ### Productivity & Communication Tools
