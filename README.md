@@ -4,7 +4,7 @@
 
 ### Defunding at day 🛡 breaking things at night 👿 
 
-### Become part of an awesome community of talented IT experts all around the world!
+### Become part of an awesome community
 
 
 👇👇👇 Checkout my Channel and follow me! 👾💀
