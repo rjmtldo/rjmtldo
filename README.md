@@ -4,12 +4,10 @@
 
 #### Defunding at day 🛡 breaking things at night 👿 
 
-### Become part of an awesome community
+👇👇👇 follow me! 👾💀
 
-
-👇👇👇 Checkout my Channel and follow me! 👾💀
-
-![Twitter Follow](https://img.shields.io/twitter/follow/0xzS4r?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dudx?style=social)
+![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&labelColor=blue)
 ![Discord](https://img.shields.io/discord/702179729767268433?label=Join%20the%20community&logo=discord&style=lat)
 
 
