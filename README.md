@@ -47,7 +47,7 @@
 <p>
   <img alt="BraveBrowser" src="https://img.shields.io/badge/-BraveBrowser-FB542B?style=flat&logo=brave&logoColor=white" /> 
   <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=notion&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white" />
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" /> 
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
   <img alt="ProtonMail" src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" />  
