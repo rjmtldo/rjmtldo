@@ -1,4 +1,4 @@
-## About me
+### About me
 
 #### Sysadmin (⌐■_■) | Pentester/Bughunter
 
@@ -31,14 +31,14 @@
 
 ### Infrastructure & Network Technologies
 <p>
-  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> 
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" /> 
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> 
   <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white" /> 
   <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=flat&logo=kali-linux&logoColor=white" />  
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" />
   <img alt="VMware" src="https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white" />
+  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
   <img alt="Virtualbox" src="https://img.shields.io/badge/-Virtualbox-183A61?style=flat&logo=virtualbox&logoColor=white" />
   <img alt="Microsoft Exchange" src="https://img.shields.io/badge/-Microsoft Exchange-0078D4?style=flat&logo=microsoftexchange&logoColor=white" />
 </p>
