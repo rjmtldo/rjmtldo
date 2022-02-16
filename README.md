@@ -1,8 +1,8 @@
 ## About me
 
-### Sysadmin (⌐■_■) | Pentester/Bughunter
+#### Sysadmin (⌐■_■) | Pentester/Bughunter
 
-### Defunding at day 🛡 breaking things at night 👿 
+#### Defunding at day 🛡 breaking things at night 👿 
 
 ### Become part of an awesome community
 
