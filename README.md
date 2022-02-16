@@ -1,13 +1,14 @@
-## 👋 Hi there, I'm Rj!
-I’m a Tech enthusiast, and IT professional.
+About me
+
+Sysadmin (⌐■_■) | Pentester/Bughunter
+Defunding at day 🛡 breaking things at night 👿
 
 ### Become part of an awesome community of talented IT experts all around the world!
 
-👇👇👇 Checkout my Channel and follow me!
+👇👇👇 Checkout my Channel and follow me! 👾💀
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/0xzS4r?style=social)
 ![Discord](https://img.shields.io/discord/702179729767268433?label=Join%20the%20community&logo=discord&style=lat)
-
 
 ## 🛠️ Technologies and Tools
 ### DevOps & Cloud Technologies
