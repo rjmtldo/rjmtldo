@@ -18,11 +18,11 @@
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-000?style=flat&logo=bash&logoColor=white" />
+  <img alt="gnuBash" src="https://img.shields.io/badge/-gnuBash-000?style=flat&logo=gnubash&logoColor=white" />
   <img alt="Powershell" src="https://img.shields.io/badge/-Powershell-007ACC?style=flat&logo=powershell&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> 
-  <img alt="Amazonaws" src="https://img.shields.io/badge/-Amazonaws-F46800?style=flat&logo=amazonaws&logoColor=white" />
+  <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-F46800?style=flat&logo=amazon&logoColor=white" />
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" />
   <img alt="Linode" src="https://img.shields.io/badge/-Linode-009639?style=flat&logo=linode&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
