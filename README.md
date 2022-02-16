@@ -2,7 +2,7 @@
 
 #### Sysadmin (⌐■_■) | Pentester/Bughunter
 
-#### Defunding at day 🛡 breaking things at night 👿 
+#### Defending at day 🛡 breaking things at night 👿 
 
 👇👇👇 follow me! 👾💀
 
